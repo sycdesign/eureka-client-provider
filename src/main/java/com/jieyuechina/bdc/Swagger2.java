@@ -28,9 +28,9 @@ public class Swagger2 {
     private ApiInfo apiInfo(){
         return new ApiInfoBuilder()
                 .title("Spring Boot中使用Swagger2构建RESTful Apis")
-                .description("this is description")
+                .description("userService RESTful Apis")
                 .termsOfServiceUrl("http://bdc.jieyuechina.com")
-                .contact(new Contact("gaohongbin","","hongbingao@jieyuechina.com"))
+                .contact(new Contact("gaohongbin","http://dbc.jieyuechina.com","hongbingao@jieyuechina.com"))
                 .version("1.0")
                 .build();
     }
