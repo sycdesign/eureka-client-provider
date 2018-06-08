@@ -1,4 +1,4 @@
-package com.jieyuechina.bdc.bdp;
+package com.jieyuechina.bdc;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
